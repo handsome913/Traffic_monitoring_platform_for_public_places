@@ -1,0 +1,2 @@
+# Traffic_monitoring_platform_for_public_places
+边缘计算技术+云平台展示，实现公共地点人流量监控
